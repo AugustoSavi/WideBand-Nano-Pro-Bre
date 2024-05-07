@@ -13,6 +13,9 @@
 
 - senha pareamento: 0000
 
+(i) *HC-05*
+- compra em andamento
+
 
 (i) *Libs Usadas*:
 
